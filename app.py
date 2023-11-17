@@ -1,4 +1,5 @@
 app.py
 
-new_branch
-new_branch #2
+
+def test_it_checks_logout();
+    pass
