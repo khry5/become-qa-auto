@@ -10,8 +10,7 @@ def one_more_test():
 def dome_more_tests():
     pass
 test#6
-<<<<<<< HEAD
 
 test#7
-=======
->>>>>>> refs/remotes/origin/TASK-56_Create_tests
+
+test#8
